@@ -1,5 +1,5 @@
 {
-    "name": "javiertelioz/sdk-envioskanguro",
+    "name": "envioskanguro/php-sdk-envioskanguro",
     "description": "API Envios Kanguro",
     "version": "1.0.0",
     "type": "library",
