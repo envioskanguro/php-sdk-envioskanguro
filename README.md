@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="290" height="96" src="https://envioskanguro.com/img/envioskanguro_logo_white.png?">
+</p>
+
 # Envioskanguro - PHP SDK
 We help you integrate your business so you can manage your logistics more easily.
 
