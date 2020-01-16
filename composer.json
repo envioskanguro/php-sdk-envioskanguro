@@ -1,6 +1,6 @@
 {
     "name": "envioskanguro/php-sdk-envioskanguro",
-    "description": "API Envios Kanguro",
+    "description": "Envios Kanguro API | PHP-SDK",
     "version": "1.0.0",
     "type": "library",
     "require": {
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Javier Telio Z",
-            "email": "jtelio118@gmail.com"
+            "name": "Envios Kanguro Team",
+            "email": "envioskanguro@gmail.com"
         }
     ],
     "minimum-stability": "stable",
